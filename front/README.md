@@ -43,7 +43,7 @@ React-hook-form to handle forms
 
 Zod to validate fields and types
 
-``npm i zod`
+`npm i zod`
 
 ## Running
 

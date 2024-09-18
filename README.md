@@ -29,15 +29,17 @@ This project is split into backend and frontend folders. Detailed instructions a
 Fisrt setup the environment files (.env) similarly to the given .env.example file. In the backend we need the database connect string, and in the frontend we need the API (backend) URL, after that, run the following commands:
 
 - Backend:
-  `docker compose up`
-  `npm i`
-  `npm run dev`
+
+`docker compose up`
+`npm i`
+`npm run dev`
 
 You should have it running on port 3333
 
 - Frontend:
-  `npm i`
-  `npm run dev`
+
+`npm i`
+`npm run dev`
 
 You should have it running on port 5173, accessible at [localhost](http://localhost:5173)
 
