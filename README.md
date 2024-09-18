@@ -56,7 +56,7 @@ Fell free to fork and extend this work.
 
 Lessons (Portuguese only) from Rockeseat are available but not listed in Youtube:
 
-- [Lesson 1](https://www.youtube.com/watch?v=YH5eBYLSD0c)
+- [Lesson 1](https://www.youtube.com/watch?v=d_UqdbV7SG4)
 - [Lesson 2](https://www.youtube.com/watch?v=YH5eBYLSD0c)
 - [Lesson 3](https://www.youtube.com/watch?v=JDCr3HqBOJc)
 
