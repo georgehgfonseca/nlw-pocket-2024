@@ -41,6 +41,25 @@ You should have it running on port 3333
 
 You should have it running on port 5173, accessible at [localhost](http://localhost:5173)
 
+## Future work
+
+This application can be enhanced in several ways. Some ssugestions are:
+
+- Provide authentication with Google and/or GitHub;
+- Navigation among weeks;
+- Performance charts of goal completion;
+- Sharing the week's performance with others.
+
+Fell free to fork and extend this work.
+
+## Lessons
+
+Lessons (Portuguese only) from Rockeseat are available but not listed in Youtube:
+
+- [Lesson 1](https://www.youtube.com/watch?v=YH5eBYLSD0c)
+- [Lesson 2](https://www.youtube.com/watch?v=YH5eBYLSD0c)
+- [Lesson 3](https://www.youtube.com/watch?v=JDCr3HqBOJc)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
