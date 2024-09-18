@@ -40,3 +40,7 @@ You should have it running on port 3333
   `npm run dev`
 
 You should have it running on port 5173, accessible at [localhost](http://localhost:5173)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
